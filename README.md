@@ -16,4 +16,6 @@
 # Feature Description
 <div align="justify">The dataset mainly consists of information on the buildings' structure and their legal ownership. Each row in the dataset represents a specific building in the region that was hit by Gorkha earthquake.</div>
 
+<br>
+<br>
 Information about the features can be found here - https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/
